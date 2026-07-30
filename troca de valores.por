@@ -12,8 +12,8 @@ programa
 		escreva("Filha:", "Anna","\n")
 
 		//troca de valores
-		troca=mae
-		mae=filha
+		troca=Tess
+		mae=Ana
 		filha=troca
 
 		escreva("\n Depois da troca:\n")
